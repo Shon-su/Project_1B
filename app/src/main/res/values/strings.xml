@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Project_1B</string>
+    <string name="app_title">Italiana</string>
+    <string name="description">The best ice creams in the galaxy!</string>
+    <string name="mail">example@example.com</string>
+    <string name="phone">0 123 456 789</string>
 </resources>
